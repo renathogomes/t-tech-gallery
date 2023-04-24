@@ -1,72 +1,72 @@
 * {
-    margin: 0;
+  margin: 0;
 }
 
 .header-container {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    background-color: rgb(52, 49, 49);
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(52, 49, 49);
 }
 
 .header-img {
-    width: 80px;
+  width: 80px;
 }
 
 .header-title {
-    color: beige;
+  color: beige;
 }
 
 .header-login {
-    color: beige;
+  color: beige;
 }
 
 .text-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 20px;
-    height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+  height: 50px;
 }
 
 .gallery {
-    display: flex;
-    flex-wrap: wrap;
-    max-width: 615px;
-    justify-content: center;
-    margin: 1rem auto;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 615px;
+  justify-content: center;
+  margin: 1rem auto;
 }
 
 .gallery-card {
-    width: 200px;
-    height: 200px;
-    background-color: rgb(218, 216, 216);
-    border-radius: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 2px;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(218, 216, 216);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 2px;
 }
 
 .image {
-    height: 100px;
-    width: 50;
+  height: 100px;
+  width: 50;
 }
 
 .footer-container {
-    display: flex;
-    justify-content: center;
-    margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
 }
 
 .social-instagram {
-    width: 50px;
-    height: 50px;
-    margin-right: 1rem;
+  width: 50px;
+  height: 50px;
+  margin-right: 1rem;
 }
 
 .social-linkedin {
-    width: 50px;
-    height: 50px;
+  width: 50px;
+  height: 50px;
 }
