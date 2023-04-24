@@ -34,8 +34,7 @@
     flex-wrap: wrap;
     max-width: 615px;
     justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 1rem auto;
 }
 
 .gallery-card {
@@ -53,4 +52,21 @@
 .image {
     height: 100px;
     width: 50;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+.social-instagram {
+    width: 50px;
+    height: 50px;
+    margin-right: 1rem;
+}
+
+.social-linkedin {
+    width: 50px;
+    height: 50px;
 }
